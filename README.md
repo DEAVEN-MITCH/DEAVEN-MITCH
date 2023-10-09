@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEAVEN-MITCH
 - 👀 I’m interested in coding and debugging
-- 🌱 I’m currently learning sql and qt as well as git
-- 💞️ I’m looking to collaborate on c++projects
+- 🌱 I’m currently learning unity and webgl as well as java
+- 💞️ I’m looking to collaborate on c++/c#/c/javascript/java/python projects
 - 📫 How to reach me email 21307130107@m.fudan.edu.cn
 
 <!---
